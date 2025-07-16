@@ -1,5 +1,11 @@
-## Hi there 👋
+## 👨‍💻 Fabio Alves
+**`Desenvolvedor Backend`**
 
+Meu nome é Fabio, tenho 25 anos, moro no Paraná. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNIFACEAR. Sou apaixonado em tecnologias que geram impacto positivo na vida das pessoas e tenho dedicado meu tempo a aprender programação. 
+
+Gosto de música, filmes, atividades físicas e jogos online.
+
+Você pode se conectar comigo pelo Linkedin [clicando aqui](https://www.linkedin.com/in/fabiofigueiredoalves/).
 <!--
 **fabiofalves/fabiofalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
